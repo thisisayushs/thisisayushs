@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushs01
+- 👋 Hi, I’m @emayush
 - 👀 I’m interested in Apple Development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS App
