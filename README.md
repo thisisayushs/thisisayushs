@@ -11,7 +11,7 @@
 - RealityKit - More advanced capabilities of RealityKit.
 - Metal - Writing custom shaders using Metal.
 
-## 🧳 Other Apple frameworks I’ve tinkered with.
+## 🧳 Other Apple frameworks I’ve tinkered with:
 - SwiftUI - A declarative framework to build beautiful, reactive user interfaces across Apple platforms.
 - SwiftData - Apple’s lightweight, Swift-native framework for local data persistence and model-driven apps.
 - Swift Charts - A flexible framework to create beautiful, animated charts and data visualizations in SwiftUI.
