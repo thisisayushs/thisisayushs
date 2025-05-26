@@ -19,6 +19,9 @@
 - HealthKit - A secure framework for managing, sharing, and analyzing health and fitness data across Apple devices.
 - SceneKit - A 3D graphics framework for building immersive scenes, animations, and visualizations on Apple platforms.
 
+## 🛸 Most recent project:
+I’m currently building Distraction Dodge, a focus training app that simulates real-world distractions like notifications and short-form videos to help users improve their attention span. It’s built with ARKit’s eye-tracking on iPadOS and adapted leveraging indirect gestures, for spatial computing in visionOS.
+
   ---
 
 *If you understand the problem, that’s half the battle.*
