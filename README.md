@@ -22,7 +22,7 @@
 - **AVFoundation** – Apple’s comprehensive framework for handling media playback, audio, and speech synthesis in apps.
 
 ## 🛸 Most recent project:
-I’m currently building **Distraction Dodge**, a focus training app that simulates real-world distractions like notifications and short-form videos to help users improve their attention span. It’s built with ARKit’s eye-tracking on iPadOS and adapted leveraging indirect gestures, for spatial computing in visionOS.
+I’m currently building [**Distraction Dodge**](https://github.com/thisisayushs/distractiondodge), a focus training app that simulates real-world distractions like notifications and short-form videos to help users improve their attention span. It’s built with ARKit’s eye-tracking on iPadOS and adapted leveraging indirect gestures, for spatial computing in visionOS.
 
   ---
 
