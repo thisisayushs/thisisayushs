@@ -8,6 +8,7 @@
 
 ## 🧭 Currently Exploring:
 - **MLX Swift** - A swift-native framework designed to light weight Large Language Models directly on Apple devices.
+- **Foundation Models** - An Apple framework that lets you tap into on-device LLM that powers Apple Intelligence.
 - **RealityKit** - More advanced capabilities of RealityKit.
 - **Metal** - Writing custom shaders using Metal.
 
